@@ -779,7 +779,7 @@ a:hover {
 }
 
 .skill-mf span {
-  color: #7eff73;
+  color:white;
 }
 .skill-mf .progress {
   background-color: #000000;
@@ -789,7 +789,7 @@ a:hover {
 }
 .skill-mf .progress .progress-bar {
   height: 1.0rem;
-  background-color: #dd0a0a;
+  background-color: #ffffff;
 }
 
 /*--------------------------------------------------------------
